@@ -17,5 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+![image](https://github.com/llassan/wineData/assets/126498248/2c3e5e92-8aea-463c-9b8d-d5dae76e2d07)
 
 
